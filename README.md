@@ -3,7 +3,8 @@
 
 一、介面:
 
-![image](https://github.com/zxc27658479/NCU-Teacher-Regulations-LineBot/assets/86355911/6b85b149-76cd-4889-8494-de2e1f4504b0)![image](https://github.com/zxc27658479/NCU-Teacher-Regulations-LineBot/assets/86355911/13157dd9-bf06-476a-afc4-67f00777f1d6)
+![image](https://github.com/zxc27658479/NCU-Teacher-Regulations-LineBot/assets/86355911/6b85b149-76cd-4889-8494-de2e1f4504b0)![image](https://github.com/zxc27658479/NCU-Teacher-Regulations-LineBot/assets/86355911/02741ca5-5918-4350-afff-ecb95a445f16)
+
 
 
 二、功能
